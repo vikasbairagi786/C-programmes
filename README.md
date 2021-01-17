@@ -1,1 +1,1 @@
-# C-programmes
+# C++ programmes
